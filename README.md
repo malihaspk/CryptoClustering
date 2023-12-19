@@ -2,7 +2,7 @@
 
 In this challenge we are using unsupervised learning to predict if cryptocurrencies are affected by 24-hour or 7-day price changes.
 
-The analysis can be found in a jupyter note book named Crypto_Clustering.ipynb in the repository.
+The analysis can be found in a jupyter note book named Crypto_Clustering.ipynb in starter code folder of the repository.
 
 We imported PCA from sklearn.decomposition import  and also
 imported StandardScaler from sklearn.preprocessing for the unsupervised machine learning assigmnet.
